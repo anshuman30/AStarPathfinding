@@ -1,1 +1,1 @@
-# A* Path finding algorith visualisation
+# A* Path finding algorithm visualisation
